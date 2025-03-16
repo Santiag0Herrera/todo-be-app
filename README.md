@@ -1,15 +1,15 @@
-# todo-be-app
+# 📝 To Do - BE - App
 
-## Overview
+## 🌟 Overview
 This is a simple Todo application built with **FastAPI**. It allows users to create, read, update, and delete todo items.
 
-## Features
+## ✨ Features
 - **Create** new todo items
 - **Retrieve** a list of todo items
 - **Update** existing todo items
 - **Delete** todo items
 
-## Installation
+## ⚙️ Installation
 1. Clone the repository:
   ```bash
   git clone https://github.com/yourusername/todo-be-app.git
@@ -23,15 +23,15 @@ This is a simple Todo application built with **FastAPI**. It allows users to cre
   pip install -r requirements.txt
   ```
 
-## Usage
+## 🚀 Usage
 1. Start the FastAPI server:
   ```bash
   uvicorn main:app --reload
   ```
 2. Open your browser and navigate to `http://127.0.0.1:8000/docs` to access the **Swagger UI** and interact with the API.
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
+## 📄 License
 This project is licensed under the **MIT License**.
